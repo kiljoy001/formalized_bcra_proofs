@@ -43,7 +43,7 @@ Contains complete formal verification with:
 sudo apt install coq
 
 # Compile and verify
-coq bcra_complete_proof.v
+coq bcra_proof.v
 ```
 
 ## 🎓 The Learning Journey
