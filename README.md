@@ -29,7 +29,7 @@ This extension validates my "defender gets spoils" security mechanisms where fai
 
 ## 📁 The Proof
 
-**Single file:** `bcra_complete_proof.v`
+**Single file:** `bcra_proofs.v`
 
 Contains complete formal verification with:
 - All arithmetic lemmas proven from Coq's Real library (no axioms)
@@ -43,7 +43,7 @@ Contains complete formal verification with:
 sudo apt install coq
 
 # Compile and verify
-coq bcra_complete_proof.v
+coq bcra_proof.v
 ```
 
 ## 🎓 The Learning Journey
